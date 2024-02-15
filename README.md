@@ -15,7 +15,7 @@ Task Hunt is a freelance platform developed using the MERN stack, which includes
 -   **Notifications**: Receive updates on task statuses and submissions.
 -   **Messaging System**: Communicate with freelancers or clients to clarify project requirements.
 
-## Screenshots
+## Screenshot
 
 ![Task Hunt](https://drive.google.com/file/d/1S_p-g5e3154T9rRkdzR7VwA1BrYPPV0_/view?usp=sharing)
 ![Task Hunt](https://drive.google.com/file/d/1N_Sde3YBSnytC8aRSBOKiZuRMTTrl84o/view?usp=sharing)
